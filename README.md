@@ -1,4 +1,4 @@
-# dollar-p-unity
+# $P-Unity
 An implementation and generalization to 3D of the $P algorithm for Unity3D
 
 Original $P algorithm published by
